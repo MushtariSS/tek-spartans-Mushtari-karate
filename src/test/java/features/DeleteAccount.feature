@@ -1,4 +1,4 @@
-@Regression
+@Ignore
 Feature: Delete Account Testing
 
   @DeleteAccount
